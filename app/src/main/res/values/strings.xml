@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Denuncias</string>
+    <string name="ciudadanos">CIUTADANA</string>
+    <string name="urbana">URBANA</string>
+    <string name="infraestructura">INFRAESTRUCTURA</string>
+    <string name="perdidas">PÉRDUES</string>
+    <string name="denuncias">DENUNCIES</string>
+    <string name="edificios">EDIFICIS</string>
+
+</resources>
